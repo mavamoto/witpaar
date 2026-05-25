@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mavamoto.github.io/witpaar/'
 locale = 'es-ES'
 title = 'Las aventuras del Almirante Mavamoto'
 theme = 'book'
