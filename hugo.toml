@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 locale = 'es-ES'
 title = 'Las aventuras del Almirante Mavamoto'
 theme = 'book'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
