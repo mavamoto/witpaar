@@ -17,7 +17,7 @@ Una vez neutralizada esa amenaza, se dará inicio a la invasión de Filipinas y 
 
 ### Filipinas
 
-![Planes para la invasión de Filipinas](/images/strategy/filipinas_01.jpg)
+{{< img "images/strategy/filipinas_01.jpg" "Planes de invasión de Filipinas" >}}
 
 Se ha plenado el desembarco de tropas, así como el lanzamiento de algunos paracaidistas en el norte de la isla (1) para comenzar a aplicar presión sobre Manila y Clark Field.
 
@@ -31,4 +31,4 @@ Las Filipinas serán sometidas a un poderoso bombardeo empleando los G3M y los G
 
 ### Malasia
 
-![Planes para la invasión de Malasia](/images/strategy/malasia_01.jpg)
+{{< img images/strategy/malasia_01.jpg" "Planes de invasión de Malasia" >}}
