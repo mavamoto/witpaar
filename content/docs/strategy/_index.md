@@ -3,8 +3,6 @@ title: "Estrategia"
 draft: false
 ---
 
-![Almirante Mavamoto explicando la estrategia para la campaña a su Estado Mayor](/images/admiral_mavamoto_strategy.jpg)
-
 ## Objetivos estratégicos del Imperio Japonés
 
 Los objetivos de Japón en esta campaña son muy similares a los seguidos por Japón en la Segunda Guerra Mundial. Comprende las conquistas de Hong Kong, Filipinas, Malasia y las Indias Orientales Neerlandesas. 
@@ -17,7 +15,7 @@ Una vez neutralizada esa amenaza, se dará inicio a la invasión de Filipinas y 
 
 ### Filipinas
 
-{{< img "images/strategy/filipinas_01.jpg" "Planes de invasión de Filipinas" >}}
+![Planes para la invasión de Filipinas](/witpaar/images/strategy/filipinas_01.jpg)
 
 Se ha plenado el desembarco de tropas, así como el lanzamiento de algunos paracaidistas en el norte de la isla (1) para comenzar a aplicar presión sobre Manila y Clark Field.
 
@@ -31,4 +29,5 @@ Las Filipinas serán sometidas a un poderoso bombardeo empleando los G3M y los G
 
 ### Malasia
 
-{{< img images/strategy/malasia_01.jpg" "Planes de invasión de Malasia" >}}
+![Planes para la invasión de Malasia](/witpaar/images/strategy/malasia_01.jpg)
+
