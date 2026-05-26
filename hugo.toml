@@ -3,6 +3,13 @@ locale = 'es-ES'
 title = 'Las aventuras del Almirante Mavamoto'
 theme = 'book'
 
+[params]
+  BookSection = 'campaign'
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

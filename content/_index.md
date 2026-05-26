@@ -8,25 +8,18 @@ weight: 1
 
 # Las aventuras del Almirante Mavamoto
 
+![Almirante Mavamoto](/witpaar/images/mavamoto.jpg)
+
 Bienvenidos al archivo web que cuenta las aventuras del Almirante Mavamoto en sus esfuerzos dirigiendo a Japón en la Gran Campaña del juego [War in the Pacific: Admiral's Edition](https://www.matrixgames.com/game/war-in-the-pacific-admirals-edition)
 
 ---
 
-## Índice de contenidos
+- Escenario 1: La Gran Campaña.
+- Dificultad: Hard
+- Bando: Japón
+- Variante: turno histórico del 7 de diciembre.
+---
 
-- [¿Qué es esto?](#qué-es-esto)
-- [Estrategia](#estrategia)
-  - [Fase 1](#fase-1)
-  - [Fase 2](#fase-2)
-  - [Fase 3](#fase-3)
-  - [Fase 4](#fase-4)
-  - [China](#china)
-- [Planificación industrial](#planificación-industrial)
-  - [Construcción aérea](#construcción-aérea)
-  - [Investigación aérea](#investigación-aérea)
-    - [Aviones](#aviones)
-    - [Motores](#motores)
-- [Resumen semanal](#resumen-semanal)
-- [Batallas](#batallas)
-- [Informes diarios](#informes-diarios)
+[RSS Diario](/witpaar/campaign/diario/index.xml)
 
+[RSS Informes](/witpaar/campaign/informes/index.xml)
