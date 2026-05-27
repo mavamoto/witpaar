@@ -20,6 +20,6 @@ Bienvenidos al archivo web que cuenta las aventuras del Almirante Mavamoto en su
 - Variante: turno histórico del 7 de diciembre.
 ---
 
-[RSS Diario](/witpaar/campaign/diario/index.xml)
+[\[RSS\] Diario semanal de la campaña](/witpaar/campaign/diario/index.xml)
 
-[RSS Informes](/witpaar/campaign/informes/index.xml)
+[\[RSS\] Informes de turnos diarios](/witpaar/campaign/informes/index.xml)
