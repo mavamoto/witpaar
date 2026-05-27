@@ -1,7 +1,7 @@
 ---
-title: 1941-12-10 Operations
+title: 1941-12-11 Operations
 draft: false
-date: 1941-12-10
+date: 1941-12-11
 ---
 ```
 OPERATIONAL REPORT FOR Dec 11, 41
