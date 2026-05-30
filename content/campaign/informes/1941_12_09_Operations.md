@@ -218,4 +218,5 @@ SS Perch is reported to have been sunk near Manila on Dec 09, 1941
 SS Sturgeon is reported to have been sunk near Manila on Dec 09, 1941
 SS S-40 is reported to have been sunk near Manila on Dec 09, 1941
 SS S-41 is reported to have been sunk near Manila on Dec 09, 1941
+
 ```

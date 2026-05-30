@@ -228,4 +228,5 @@ Koga, Yasuji now available for reassignment
 Kanoya Ku K-1 Det arrives at Takao
 81st Sentai Det arrives at Bangkok
 Kanoya Ku K-1 arrives at Cam Ranh Bay
+
 ```

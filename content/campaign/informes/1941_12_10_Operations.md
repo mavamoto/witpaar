@@ -3,6 +3,7 @@ title: 1941-12-10 Operations
 draft: false
 date: 1941-12-10
 ---
+
 ```
 OPERATIONAL REPORT FOR Dec 10, 41
 
@@ -234,4 +235,5 @@ Loss of xAK Yosyu Maru on Dec 10, 1941 is admitted
 SS S-37 is reported to have been sunk near Manila on Dec 10, 1941
 AO Sepulga is reported to have been sunk near San Francisco on Dec 10, 1941
 xAKL Kanchow is reported to have been sunk near Paracel Islands on Dec 10, 1941
+
 ```
