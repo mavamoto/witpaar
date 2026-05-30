@@ -4,7 +4,7 @@
     <title>{{ with .Params.feedTitle }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Site.BaseURL }}</link>
     <description>{{ .Site.Params.description | htmlEscape }}</description>
-    <language>{{ .Site.LanguageCode }}</language>
+    <language>{{ .Site.Language.Locale }}</language>
     <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
     <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
 

@@ -1,9 +1,9 @@
 ---
+bookHidden: true
 title: 1941-12-10 Operations
 draft: false
 date: 1941-12-10
 ---
-
 ```
 OPERATIONAL REPORT FOR Dec 10, 41
 

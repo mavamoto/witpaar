@@ -1,4 +1,5 @@
 ---
+bookHidden: true
 title: 1941-12-12 Operations
 draft: false
 date: 1941-12-12
