@@ -4,6 +4,7 @@ title: 1941-12-08 Operations
 draft: false
 date: 1941-12-08
 ---
+
 ```
 OPERATIONAL REPORT FOR Dec 08, 41
 
