@@ -3,8 +3,6 @@ title: Planificación industrial
 draft: false
 ---
 
-# Planificación industrial japonesa
-
 La parte de la planificación industrial japonesa es una parte que no domino
 mínimamente como parece ser necesario para llevar la campaña a buen término.
 He aumentado mínimamente la industria de armamentos y vehículos, así como la
