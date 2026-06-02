@@ -1,13 +1,10 @@
 ---
 title: "Las aventuras del Almirante Mavamoto"
 draft: false
-bookToc: true
+bookToc: false
 bookFlatSection: false
 weight: 1
 ---
-
-# Las aventuras del Almirante Mavamoto
-
 ![Almirante Mavamoto](/witpaar/images/mavamoto.jpg)
 
 Bienvenidos al archivo web que cuenta las aventuras del Almirante Mavamoto en sus esfuerzos dirigiendo a Japón en la Gran Campaña del juego [War in the Pacific: Admiral's Edition](https://www.matrixgames.com/game/war-in-the-pacific-admirals-edition)
