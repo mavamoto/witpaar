@@ -1,5 +1,4 @@
 ---
-title: "Las aventuras del Almirante Mavamoto"
 draft: false
 bookToc: false
 bookFlatSection: false
